@@ -8,7 +8,7 @@ function GetStarted({ onGetStarted }) {
       <br></br>
       <h1>
         Let’s get started your journey <br></br>
-        with our Scheduler App!
+        with our Scheduler App!!!
       </h1>
       <button onClick={onGetStarted}>Get Started</button>
     </div>
